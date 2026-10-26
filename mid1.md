@@ -1,3 +1,6 @@
+프롬프트:
+무지개 블록깨기 게임을 만들거야. 근데 visual studio에서 쓸거고 nuget에서 raylib을 이용할거야. c언어를 쓸건데 한글은 들어가면 안돼. 
+
 ```c
 
 #include "raylib.h"
